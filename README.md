@@ -18,6 +18,13 @@ records.
 
 ## Executive Summary
 Overview Of Findings
+This Project demonstrates my proficiency in data visualization and business intelligence by presenting a comprihensive dashboard for hypothtical online retail store. The goal was to create an intuitive and insightful tool that consolidates key performance indicators (KPIs) and reveals critical sales trends, empowering stakeholders with actionable information to drive business decisions.
+
+Utilizing Sythetic retail data, I designed and developed this interactive dashboard to provide a holistic view of the store's operation, covering aspects from overall revenue and product performance to coustome demographics and sales seasonality. This project showcases my ability to transform raw data into clear compelling visual narratives.
+
+Key Metrics at a Glance:
+
+
 
 
 Sales Trends
