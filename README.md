@@ -3,7 +3,7 @@
   Synthethic Online Retail Shop is an retail shop that sells popular products in South Africa and distributes them.
 
   The company has a significant amount of data on its sales, marketting efforts, oprerational efficiency, customer service ratings and payment methods. This project throughtly analyzes and sythethize this data in order to uncover critical insights that will improve The Sythethic Retail shop commercial success.
-
+![image_alt](https://github.com/EpieJr/Sales-Retail-shop-Analysis/blob/1f7444e3dc1748fea5e80c650e361eeab9c19faa/images/Screenshot%202025-07-18%20193322.png)
 Insights and recommendations are provided on the following key areas;
 * Sales Trend Analysis: Evaluation of historical sales patterns both globally and by region focusing on Revenue, Order Volume and Average order value
 * Product Level  Performance: An analysis of THE SYNTHETIC SHOP shows various product lines, understanding their impact and returns.
@@ -15,7 +15,7 @@ Data Structure & Initial Checks
 STSY database structure below consist of one table orders, with a total row count of 1000
 records.
 
-[image_alt](https://github.com/EpieJr/Sales-Retail-shop-Analysis/blob/main/images/clicks.png?raw=true)
+![image_alt](https://github.com/EpieJr/Sales-Retail-shop-Analysis/blob/main/images/clicks.png?raw=true)
 
 ## Executive Summary 
 Overview Of Findings
