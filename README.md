@@ -15,7 +15,7 @@ Data Structure & Initial Checks
 STSY database structure below consist of one table orders, with a total row count of 1000
 records.
 
-![exclusive summary](screenshot 2025-07-18 193218.png")
+![exclusive summary](images/Screenshot 2025-07-18 193218.png)
 ## Executive Summary 
 Overview Of Findings
 This Project demonstrates my proficiency in data visualization and business intelligence by presenting a comprihensive dashboard for hypothtical online retail store. The goal was to create an intuitive and insightful tool that consolidates key performance indicators (KPIs) and reveals critical sales trends, empowering stakeholders with actionable information to drive business decisions.
