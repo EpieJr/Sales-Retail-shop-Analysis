@@ -15,7 +15,7 @@ Data Structure & Initial Checks
 STSY database structure below consist of one table orders, with a total row count of 1000
 records.
 
-images/Screenshot 2025-07-18 193218.png
+[image_alt](https://github.com/EpieJr/Sales-Retail-shop-Analysis/blob/main/images/clicks.png?raw=true)
 
 ## Executive Summary 
 Overview Of Findings
