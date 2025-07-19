@@ -15,7 +15,7 @@ Data Structure & Initial Checks
 STSY database structure below consist of one table orders, with a total row count of 1000
 records.
 
-![executsive summary] images/Screenshot 2025-07-18 193218.png
+images/Screenshot 2025-07-18 193218.png
 
 ## Executive Summary 
 Overview Of Findings
